@@ -70,7 +70,7 @@ newBtn.addEventListener('click',()=>{
 
 function quitGame(btn){
    
-    alertPara.innerHTML = "The Right Number is " + pcGuess+"."
+    alertPara.innerHTML = "The Correct Number is " + pcGuess+"."
     btn.style.display="none"
     btnCheck.disabled="true"
     newBtn.style.display="block"
