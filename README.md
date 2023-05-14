@@ -8,4 +8,4 @@ Guess the number game built with bootstrap and javascript. The game allow users 
 4. Option to exit the game and reveal the correct number.
 
 ## Demo
-You can play the "Guess the Number" game here ('''https://ankitjha2023/github.io/guess-number''')
+You can play the "Guess the Number" game here ('''https://ankitjha2023.github.io/guess-number/''')
